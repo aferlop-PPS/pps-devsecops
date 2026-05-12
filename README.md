@@ -109,3 +109,6 @@ python3 main.py
 ## Autor: Antonio José Fernández López
 
 Proyecto desarrollado para Alan Turing con fines académicos (PPS).
+Commit firmado GPG
+Commit firmado GPG
+Commit firmado GPG
