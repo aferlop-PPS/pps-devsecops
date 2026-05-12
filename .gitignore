@@ -1,0 +1,21 @@
+# Logs y depuración
+*.log
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Caché Python
+__pycache__/
+*.pyc
+
+# Bases de datos locales
+*.sqlite3
+
+# Variables sensibles
+.env
+secrets.env
+
+# Archivos temporales
+*.tmp
