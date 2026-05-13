@@ -19,3 +19,4 @@ secrets.env
 
 # Archivos temporales
 *.tmp
+secrets.env
